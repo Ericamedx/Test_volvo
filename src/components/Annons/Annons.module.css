@@ -1,0 +1,53 @@
+
+img{
+    max-width: 100%;
+        max-height: 100%;
+        display: block;
+}
+
+.buttonText{
+    border-style: none;
+    color: #00b9de;
+    margin-right: 10%;
+    background-color: white;
+    font-weight: bold;
+    margin-top: 2%;
+}
+
+.buttonText:hover{
+    color: black;
+}
+
+.Annons {
+    width: 23%;
+    height: 20%;
+    background-color: white;
+    float: left;
+    margin-left: 1%;
+}
+
+
+.bodyType{
+    color: gray;
+    text-align: left;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.id_model{
+    display: flex;
+}
+
+.ID {
+    text-align: left;
+    margin: 0;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.modelType {
+    text-align: left;
+    margin: 0;
+    margin-left: 2%;
+
+}
